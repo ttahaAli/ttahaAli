@@ -64,5 +64,5 @@ Below is the categorized inventory of my verified technical, business, and found
 ---
 
 ## 📬 Connect With Me
-* 💼 **LinkedIn:** [link-to-your-profile]([https://linkedin.com](https://www.linkedin.com/in/taha-ali-131709351/))
-* 📧 **Email:** [your-email@example.com](mailto:ttahaali13214@gmail.com)
+* 💼 **LinkedIn:** [https://www.linkedin.com/in/taha-ali-131709351]
+* 📧 **Email:** [ttahaali13214@gmail.com]
