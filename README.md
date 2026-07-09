@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name]! 👋
+# Hi, I'm Taha Ali! 👋
 **Data Engineer | Backend Developer | Product Analyst**
 
 Welcome to my GitHub profile! I specialize in building data pipelines, optimizing relational databases, and transforming messy, large-scale data into business intelligence.
