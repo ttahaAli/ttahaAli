@@ -1,15 +1,16 @@
 # Hi, I'm Taha Ali! 👋
-**Data Engineer | Backend Developer | Product Analyst**
+**Data Engineer | Backend Developer | Product Analyst | Machine Learning Engineer**
 
-Welcome to my GitHub profile! I specialize in building data pipelines, optimizing relational databases, and transforming messy, large-scale data into business intelligence.
+Welcome to my GitHub profile! I specialize in building robust data pipelines, optimizing relational databases, training optimized machine learning models, and transforming messy, large-scale data into business intelligence.
 
 ---
 
 ## 🛠️ Core Technical Stack
-* **Languages:** Python, SQL
-* **Data Engineering:** Pandas, ETL Pipelines, Data Sanitization, Data Modeling (3NF)
+* **Languages:** Python, SQL(PostgreSQL)
+* **Machine Learning & AI:** Scikit-Learn, Random Forest, Regression, Ensemble Learning, Hyperparameter Tuning
+* **Data Engineering:** Pandas, ETL Pipelines, Data Sanitization, Data Modeling (3NF), CSV parsing, Memeory Optimization
 * **Databases:** PostgreSQL, `psycopg2`, Advanced Window Functions & CTEs
-* **DevOps & Tools:** Git, GitHub
+* **DevOps & Tools:** Git, GitHub, Linux Shell
 
 ---
 
@@ -18,6 +19,8 @@ Welcome to my GitHub profile! I specialize in building data pipelines, optimizin
   * *Pandas cleaning script mapping columns to categories, purging 460k blank rows, and using regex to sanitize financial fields safely.*
 * 🗄️ **[Grocery App Relational Database & ETL Pipeline](https://github.com)**
   * *3NF PostgreSQL schema and an automated Python ETL pipeline calculating cumulative monthly sales analytics via complex analytical SQL window functions.*
+* 🏡 **[Lahore Real Estate Price Predictor](https://github.com)**
+  * *An interactive machine learning dashboard built with Streamlit and Scikit-Learn (Random Forest Regressor, achieving 83.62% $R^2$ accuracy) to estimate property valuations in Lahore. Implements memory-efficient data caching, custom parser pipelines for unstructured currency/area text (Crore/Lakh/Kanal/Marla), and robust fuzzy matching lookup rules.* 
 
 ---
 
