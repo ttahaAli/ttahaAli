@@ -1,16 +1,19 @@
 # Hi, I'm Taha Ali! 👋
-**Data Engineer | Backend Developer | Product Analyst | Machine Learning Engineer**
 
-Welcome to my GitHub profile! I specialize in building robust data pipelines, optimizing relational databases, training optimized machine learning models, and transforming messy, large-scale data into business intelligence.
+### **Data Engineer | Machine Learning Engineer | Backend Developer | Product Analyst**
+
+Welcome to my GitHub profile! I specialize in building robust data pipelines, training optimized machine learning models, and transforming messy, large-scale data into actionable business intelligence.
 
 ---
 
 ## 🛠️ Core Technical Stack
-* **Languages:** Python, SQL(PostgreSQL)
-* **Machine Learning & AI:** Scikit-Learn, Random Forest, Regression, Ensemble Learning, Hyperparameter Tuning
-* **Data Engineering:** Pandas, ETL Pipelines, Data Sanitization, Data Modeling (3NF), CSV parsing, Memeory Optimization
-* **Databases:** PostgreSQL, `psycopg2`, Advanced Window Functions & CTEs
-* **DevOps & Tools:** Git, GitHub, Linux Shell
+
+*   **Languages:** `Python` | `SQL (PostgreSQL)`
+*   **Machine Learning & AI:** `Scikit-Learn` | `Random Forest` | `Regression` | `Ensemble Learning` | `Hyperparameter Tuning`
+*   **Data Engineering:** `Pandas` | `ETL Pipelines` | `Data Sanitization` | `Data Modeling (3NF)` | `CSV Parsing` | `Memory Optimization`
+*   **Databases:** `PostgreSQL` | `psycopg2 API` | `Advanced Window Functions & CTEs`
+*   **Deployment & UI:** `Streamlit` | `Web App Caching (@st.cache_data, @st.cache_resource)`
+*   **DevOps & Tools:** `Git` | `GitHub` | `Linux Shell`
 
 ---
 
