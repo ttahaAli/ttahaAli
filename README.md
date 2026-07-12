@@ -15,11 +15,11 @@ Welcome to my GitHub profile! I specialize in building robust data pipelines, op
 ---
 
 ## 📁 Featured Projects
-* 📊 **[Pakistan E-Commerce 1-Million Row Cleaning Pipeline](https://github.com)**
+* 📊 **[Pakistan E-Commerce 1-Million Row Cleaning Pipeline](https://github.com/ttahaAli/grocery-app-etl-pipeline)**
   * *Pandas cleaning script mapping columns to categories, purging 460k blank rows, and using regex to sanitize financial fields safely.*
-* 🗄️ **[Grocery App Relational Database & ETL Pipeline](https://github.com)**
+* 🗄️ **[Grocery App Relational Database & ETL Pipeline](https://github.com/ttahaAli/Pakistan-E-Commerce-1-Million-Row-Cleaning-Pipeline))**
   * *3NF PostgreSQL schema and an automated Python ETL pipeline calculating cumulative monthly sales analytics via complex analytical SQL window functions.*
-* 🏡 **[Lahore Real Estate Price Predictor](https://github.com)**
+* 🏡 **[Lahore Real Estate Price Predictor](https://github.com/ttahaAli/Lahore-real-estate-predictor)**
   * *An interactive machine learning dashboard built with Streamlit and Scikit-Learn (Random Forest Regressor, achieving 83.62% $R^2$ accuracy) to estimate property valuations in Lahore. Implements memory-efficient data caching, custom parser pipelines for unstructured currency/area text (Crore/Lakh/Kanal/Marla), and robust fuzzy matching lookup rules.* 
 
 ---
