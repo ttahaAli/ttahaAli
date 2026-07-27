@@ -22,6 +22,8 @@ Welcome to my GitHub profile! I specialize in building robust data pipelines, tr
 
 * 🔮 **[Bilingual Roman Urdu & English Sentiment Analyzer](https://github.com/ttahaAli/bilingual-sentiment-analyzer)**
   * *An end-to-end Deep Learning workspace and interactive Streamlit dashboard benchmarking three generations of NLP architectures (ANN, 1D-CNN, and XLM-RoBERTa Transformer) on code-switched customer reviews. Implements memory-efficient resource caching (`@st.cache_resource`) for real-time CPU evaluation and an explicit multilingual tokenizer pipeline optimized for non-standard Roman Urdu e-commerce datasets.*
+*  🚀 **[Bilingual Sentiment Analysis API](https://github.com/ttahaAli/bilingual-sentiment-api)**
+  *  *A production-ready REST API built with FastAPI, PyTorch, and Docker designed to handle code-switched Roman Urdu and English text. It processes raw input through custom RegEx cleaning and TF-IDF feature extraction before serving 3-class sentiment predictions (Positive, Neutral, Negative) with confidence scores. Fully containerized with a CPU-optimized PyTorch build for rapid deployment.*
 * 🏡 **[Lahore Real Estate Price Predictor](https://github.com/ttahaAli/Lahore-real-estate-predictor)**
   * *An interactive machine learning dashboard built with Streamlit and Scikit-Learn (Random Forest Regressor, achieving 83.62% $R^2$ accuracy) to estimate property valuations in Lahore. Implements memory-efficient data caching, custom parser pipelines for unstructured currency/area text (Crore/Lakh/Kanal/Marla), and robust fuzzy matching lookup rules.*
 * 🗄️ **[Grocery App Relational Database & ETL Pipeline](https://github.com/ttahaAli/grocery-app-etl-pipeline)**
